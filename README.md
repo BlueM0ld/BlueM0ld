@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlueM0ld
 - 👀 I’m interested in alot of things ! 
-- 🌱 I’m currently learning cloud computing and a having a small adventure in chess programming :) 
+- 🌱 I’m currently learning compliers and dragging my feet in chess programming 🖱️
 - 💞️ I’m looking to collaborate on anything that I can understand ahah
 - 📫 How to reach me ...through my email :) 
 
